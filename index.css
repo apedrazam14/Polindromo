@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+}
+.Title{
+    
+    color:#E9C23F;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #E9C23F solid;
+    font-size: 6.5mm;
+    text-align: center;
+}
+.Number{
+    color: black ;
+    font-family: 'Open Sans Condensed', sans-serif;   
+    font-size: 3.5mm;
+}
